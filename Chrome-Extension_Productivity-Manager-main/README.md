@@ -14,3 +14,6 @@ It contains the following features:
 3.ALARM
 
 4.URL BLOCKING
+
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/83876180/187264139-dad2d358-ec75-4f96-838b-f7eda360f4f6.png">
+
