@@ -51,6 +51,8 @@ function check(){
     $("#alarm-hours").val(0);
     $("#alarm-Minutes").val(0);
     $("#alarm-text").val('');
+    var audio = new Audio('alarm_sound.mp3');
+    audio.play();
     alert(string);
 
   }
