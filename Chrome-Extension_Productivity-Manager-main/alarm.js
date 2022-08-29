@@ -45,9 +45,10 @@ function check(){
      minutes = $("#alarm-Minutes").val() || 0;
     min = parseInt(minutes, 10);
      string=$("#alarm-text").val() || "do your task";
+    $('.alarm-submit').prop('disabled', true);
   });
   if((hou===h)&&(min===m)&&(s===0)){
-
+     $('.alarm-submit').prop('disabled', false);
     $("#alarm-hours").val(0);
     $("#alarm-Minutes").val(0);
     $("#alarm-text").val('');
