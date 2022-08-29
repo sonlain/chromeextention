@@ -3,7 +3,7 @@
   "name":"Productivity-Manager",
   "description": "Displays Timer,Todos,alarm and blocks urls.",
   "version": "3.0",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "background": {
       "scripts": [
           "background.js"
