@@ -1,31 +1,89 @@
-# chromeextention
-Chrome Extension which check your productivity and also have todo list.
+# Productivity Management Chrome Extension
 
-This is a Productivity Managament Chrome Extension.It's built using the following application and languages:  
-
-1.Front-End: JavaScript , HTML and CSS. 
-
-2.Database: Chrome(using its local storage API).
+A Chrome extension to help users manage and analyze their productivity. It offers a
+suite of time management tools that track your work and break times, reminding you
+when it's time to get up and move around or get back to work. It also helps to block
+unwanted websites.
 
 
+## Tech Stacks Used
 
-It contains the following features:
+It's built using the following applications and languages :
 
-1.TIMER
+Front-End :
+* HTML
+* CSS
+* Javascript
 
-2.TODO LIST
+Database :
+* Chrome API
+## Installation
 
-3.ALARM
+You can run Productivity Manager locally without having to install it from the
+Store or from Firefox Add-ons.
 
-4.URL BLOCKING
+Installing on Chrome :
 
-<img width="953" alt="image" src="https://user-images.githubusercontent.com/83876180/188492588-29f59dc7-5a3d-4a20-9a7b-ba9069f028db.png">
+```bash
+  1.Clone the project to the directory where you want the cloned project or
+    Download the Zip folder of project and extract it.
+  2.Go to chrome://extensions/ in your chrome browser, and enable developer mode
+  3.Drag the extracted src folder or click on the "Load unpacked" button and locate the folder.
+  4.Now, you will be able to use Productivity Manager extension locally.
+```
 
-<img width="304" alt="image" src="https://user-images.githubusercontent.com/83876180/188495040-54fae6a4-2db8-4f8a-9806-987ea84e6e47.png">
+Installing on Firefox :
+
+```bash
+  1.Clone the project to the directory where you want the cloned project or
+    Download the Zip folder of project and extract it.
+  2.Open the about:debugging page in your browser, click the "This Firefox" option
+  3.Click the "Load Temporary Add-on" button, and select any file inside the firefox folder
+  4.Now, you will be able to use this extension locally.
+```
+
+
+    
+## Features
+
+- Timer
+  ```bash
+  * we can use timer as Stop watch, it has functions 
+    like start, pause, resume, reset, and stop.
+  ```
+- Alarm
+  ```bash
+  * we can set alarm in HH/MM format with an 
+   event name to distinguish between different alarms.
+  * we can set multiple alarms for different events.
+  ```
+- Todo List
+  ```bash
+  * we can save our daily tasks in order not to miss anything. We can add any task to the todo list.
+  * once paricular task is done, we can remove this from the todo list , and we can also edit if required.
+  ```
+- Blocking URL
+  ```bash
+  * A minimum URL blocker to help you stay focused whilst working. 
+  * Block any URL you want by adding it to the list.
+  * Keep your list saved and just toggle the blocker whenever you want.
+  ```
+
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/83536671/189363264-329540af-ba3c-4889-a173-fa01ac264f9d.jpeg)
+
+![2](https://user-images.githubusercontent.com/83536671/189363262-ac2e5528-6d09-41c4-b9ce-e93296ad9f5b.jpeg)
+
+![3](https://user-images.githubusercontent.com/83536671/189363257-e95f0b12-efc6-4dda-a921-ad4fdab779cc.jpeg)
+
+![1](https://user-images.githubusercontent.com/83536671/189363246-e984ef5e-8b44-4eea-946d-e63732dcacf2.jpeg)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/83876180/189390247-aab789dd-7717-4237-8b22-6ff508906897.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189390444-2a9696fb-064a-4560-b862-a142f0a3a7d9.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189390629-59687729-8820-4eb7-8166-b2f767bc046f.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189391093-056d23e9-f510-4608-a910-da63c727d073.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189391160-32aeb4dd-5cce-4118-bd26-4c6400fa8b4a.png">
 
 
 
-Installation
-
-Navigate to chrome://extensions/ and click the "Load unpacked extension..." button. Navigate to and select this directory. You should then see an "Chrome-Extension_Productivity-Manager-main" extension and see the app when you open a new tab.
 
