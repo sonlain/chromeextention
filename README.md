@@ -71,17 +71,14 @@ Installing on Firefox :
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/83536671/189363264-329540af-ba3c-4889-a173-fa01ac264f9d.jpeg)
-
-![2](https://user-images.githubusercontent.com/83536671/189363262-ac2e5528-6d09-41c4-b9ce-e93296ad9f5b.jpeg)
-
-![3](https://user-images.githubusercontent.com/83536671/189363257-e95f0b12-efc6-4dda-a921-ad4fdab779cc.jpeg)
-
-![1](https://user-images.githubusercontent.com/83536671/189363246-e984ef5e-8b44-4eea-946d-e63732dcacf2.jpeg)
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/83876180/189390247-aab789dd-7717-4237-8b22-6ff508906897.png">
+
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189390444-2a9696fb-064a-4560-b862-a142f0a3a7d9.png">
+
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189390629-59687729-8820-4eb7-8166-b2f767bc046f.png">
+
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189391093-056d23e9-f510-4608-a910-da63c727d073.png">
+
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189391160-32aeb4dd-5cce-4118-bd26-4c6400fa8b4a.png">
 
 
