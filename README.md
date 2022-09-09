@@ -79,7 +79,7 @@ Installing on Firefox :
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189391093-056d23e9-f510-4608-a910-da63c727d073.png">
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189391160-32aeb4dd-5cce-4118-bd26-4c6400fa8b4a.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/83876180/189392751-ecd88f21-276a-43ac-884c-490d3b32b300.png">
 
 
 
